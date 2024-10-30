@@ -22,6 +22,24 @@ Clima.com é uma página web desenvolvida com o objetivo de aprender sobre integ
 
 Este projeto foi desenvolvido com o intuito de praticar a integração de APIs e aprimorar as habilidades de desenvolvimento web.
 
+## Screenshot
+
+![Sem Pesquisar Localização](https://github.com/user-attachments/assets/aab5e943-8fcf-42c0-953c-30e49330ad7f)
+
+
+--------------------
+
+
+![Clima e Temperatura da Localização](https://github.com/user-attachments/assets/e8e71f37-154b-4c01-af3b-8fa0ac40dce6)
+
+
+--------------------
+
+
+![Localização Não Encontrada](https://github.com/user-attachments/assets/be284c68-93ab-4b48-ab1c-09f7ba623ea5)
+
+
+
 ## Contato
 
 Fellipe Moraes Macedo
